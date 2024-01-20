@@ -15,3 +15,10 @@ function colorFlipper() {
   let b = Math.floor(Math.random() * 255);
   return `rgb(${r}, ${g}, ${b})`;
 }
+
+console.log("fhahlffffff");
+console.log("fhahlffffff");
+console.log("fhahlffffff");
+console.log("fhahlffffff");
+console.log("fhahlffffff");
+console.log("fhahlffffff");
